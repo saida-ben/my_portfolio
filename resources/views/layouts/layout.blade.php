@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Index - Kelly Bootstrap Template</title>
+    <title>BENZARIYA Saida</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <link
@@ -12,7 +12,7 @@
   href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"
 />
     <!-- Favicons -->
-    <link href="{{ asset('img/favicon.png') }}" rel="icon">
+    <link href="{{ asset('img/benzariya_saida.png') }}" rel="icon">
     <link href="{{ asset('img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 <!-- Bootstrap CSS -->
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
@@ -50,7 +50,7 @@
     <header id="header" class="header d-flex align-items-center light-background sticky-top">
         <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
             <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
-                <h1 class="sitename">Kelly</h1>
+            <button type="button" class="btn btn-info">get my cv</button>
             </a>
 
             <nav id="navmenu" class="navmenu">
@@ -99,16 +99,14 @@
   <footer id="footer" class="footer light-background">
         <div class="container">
             <div class="copyright text-center ">
-                <p>© <span>Copyright</span> <strong class="px-1 sitename">Kelly</strong> <span>All Rights Reserved<br></span></p>
+                <p>© <span>Copyright</span> 2024<strong class="px-1 sitename">BENZARIYA Saida</strong> <span>All Rights Reserved<br></span></p>
             </div>
             <div class="social-links d-flex justify-content-center">
-                <a href=""><i class="bi bi-github"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="https://github.com/saida-ben"><i class="bi bi-github"></i></a>
+                <a href="https://www.instagram.com/benzariya_saida/"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/saida-benzariya-915712269/"><i class="bi bi-linkedin"></i></a>
             </div>
-            <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-            </div>
+
         </div>
   </footer>
 
