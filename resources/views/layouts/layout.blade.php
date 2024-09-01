@@ -78,7 +78,6 @@
 
                         anglais</a></li>
                         <li><a class="dropdown-item" href="{{ url('lang/fr') }}"><span class="fi fi-fr fis"></span>  Français</a></li>
-                        <li><a class="dropdown-item" href="{{ url('lang/ar') }}"><span class="fi fi-ae fis"></span>  Arabe</a></li>
                     </ul>
                 </div>
             </div>
